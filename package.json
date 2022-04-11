@@ -1,0 +1,21 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godkyungho/wetube-reloaded.git"
+  },
+  "scripts": {
+    "win": "node index.js"
+  },
+  "author": "Godkyungho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Godkyungho/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/Godkyungho/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
